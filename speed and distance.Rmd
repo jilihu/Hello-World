@@ -28,3 +28,9 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+here is another test for this project, and by the next term, pepole could be able use this book for their class.
+
+also there are sevral things such as DEA and TFDEA.
+
+let us win the game.
