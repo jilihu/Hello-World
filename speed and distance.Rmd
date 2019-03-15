@@ -21,6 +21,8 @@ summary(cars)
 
 ## Including the new charactoristics
 You can also embed plots, for example:
+** new name **
+
 
 ```{r pressure, echo=FALSE}
 plot(pressure)
